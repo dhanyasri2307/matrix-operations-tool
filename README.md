@@ -1,4 +1,4 @@
-# Matrix Operations Tool
+3.# Matrix Operations Tool
 
 A Python-based matrix operations application built using NumPy.
 
